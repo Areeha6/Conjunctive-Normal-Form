@@ -1,0 +1,11 @@
+Results for Lab5:
+Formulas/formula01.cnf  True    209
+Formulas/formula02.cnf  True    2186
+Formulas/formula03.cnf  False   2529
+Formulas/formula04.cnf  True    3450
+Formulas/formula05.cnf  False   65487
+Formulas/formula06.cnf  False   2917
+Formulas/formula07.cnf  True    992
+Formulas/formula08.cnf  True    1606
+Formulas/formula09.cnf  False   39563
+Formulas/formula10.cnf  True    6371
